@@ -1,10 +1,10 @@
 This is a Matlab code for verifying the JPEG copy-move constraint, implementing the method proposed in 
  
 *Adam Novozámský, Michal Šorel, "Detection of image modification using JPEG compression model", Forensic Science International, 2017*
+
 *Adam Novozámský, Michal Šorel, "JPEG Compression Model in Copy-move Forgery Detection", 2017 (conference version)*
  
-###This code is mainly for review purposes. A more detailed version will follow. 
-[](For a more detailed description see <http://zoi.utia.cas.cz/qcscopymove>)
+This code is mainly for review purposes. A more detailed version will follow soon. 
  
 **Files**
  
